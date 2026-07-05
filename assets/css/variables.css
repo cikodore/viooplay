@@ -1,0 +1,35 @@
+:root{
+
+  /* Colors */
+  --color-primary:#E50914;
+  --color-secondary:#00C2FF;
+
+  --color-background:#0B0F19;
+  --color-surface:#151A28;
+  --color-surface-light:#1E2435;
+
+  --color-text:#FFFFFF;
+  --color-text-muted:#A7B0C0;
+
+  /* Border */
+  --border-color:#2A3145;
+
+  /* Radius */
+  --radius-sm:8px;
+  --radius-md:12px;
+  --radius-lg:18px;
+  --radius-xl:24px;
+
+  /* Shadow */
+  --shadow-card:0 10px 30px rgba(0,0,0,.35);
+
+  /* Font */
+  --font-family:"Inter",sans-serif;
+
+  /* Transition */
+  --transition:.3s ease;
+
+  /* Layout */
+  --container:1280px;
+
+}
