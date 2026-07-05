@@ -1,4 +1,4 @@
-# 🎬 ViooPlay
+# 🎬 ViooPlya
 
 Modern Streaming Blogger Theme powered by TMDB.
 
